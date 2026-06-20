@@ -1,6 +1,6 @@
 {
   "name": "The WEB",
-  "description": "An interactive decision-making assistant that maps your options, pros/cons, SWOT, and structured comparisons to help you make clarity-driven decisions.",
+  "description": "An interactive decision-making assistant that maps your options, pros and cons, SWOT, and structured comparisons.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
